@@ -4,7 +4,7 @@
 Difficulty: Medium
 Language: cpp
 Runtime: 0 ms
-Memory: 15.3 MB
+Memory: 15.1 MB
 
 ## Problem Statement
 There is an integer array nums sorted in ascending order (with distinct values).
@@ -41,7 +41,7 @@ Stored in solution file.
 
 ## Submission Details
 Runtime: 0 ms
-Memory: 15.3 MB
+Memory: 15.1 MB
 
 ## LeetCode Link
 https://leetcode.com/problems/search-in-rotated-sorted-array/
