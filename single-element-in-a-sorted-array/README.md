@@ -4,7 +4,7 @@
 Difficulty: Medium
 Language: cpp
 Runtime: 0 ms
-Memory: 26.1 MB
+Memory: 26 MB
 
 ## Problem Statement
 You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.
@@ -33,7 +33,7 @@ Stored in solution file.
 
 ## Submission Details
 Runtime: 0 ms
-Memory: 26.1 MB
+Memory: 26 MB
 
 ## LeetCode Link
 https://leetcode.com/problems/single-element-in-a-sorted-array/
